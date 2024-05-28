@@ -2,7 +2,7 @@
 # Los Angeles Roleplay
 
 ## 🚀Como Iniciou
-Nosso projeto teve início em 19/06/2024, fundado por Bryan, Eliel e João . Nosso objetivo é trazer inovação e qualidade para o roleplay do MTA:SA, criando um ambiente envolvente e autêntico para todos os jogadores.
+Nosso projeto teve início em 19/05/2024, fundado por Bryan, Eliel e João . Nosso objetivo é trazer inovação e qualidade para o roleplay do MTA:SA, criando um ambiente envolvente e autêntico para todos os jogadores.
 
 ## 🇺🇸 A Ideia do Roleplay Americano
 Escolhemos um tema americano para oferecer uma nova experiência aos jogadores, fugindo dos servidores tradicionais que focam em cenários paulistas ou nacionais. Queremos que você sinta a diferença e imersão de um verdadeiro roleplay americano!
